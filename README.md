@@ -7,5 +7,6 @@
 
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
- ![](NFT.gif)
 
+
+![GradeCalculator1](https://github.com/RamazanKun/grade-calculator/assets/129733537/e477095c-a39e-449e-9eaf-5218a1c30f24)
